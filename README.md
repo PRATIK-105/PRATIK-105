@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PRATIK-105
 - 👀 I’m interested in learning something Innovative.
 - 🌱 I’m currently learning in MITAOE TY.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on bacakend development using node.js
 - 📫 How to reach me pratikv.patil@mitaoe.ac.in
 
 <!---
